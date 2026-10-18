@@ -74,3 +74,8 @@ e2e/            Playwright specs
 ## Demo
 
 `demo.mp4` in this repo is a short walkthrough (feed, search, trending, favorites, settings, dark mode).
+
+
+## Notes for this checkout
+
+Live site: https://adityakumar027.github.io/personalized-content-dashboard/ . The simulated sign-in and sample social feed are demo features, not production authentication or a live social-network integration. See the existing sections below for tests, build commands, and optional data sources.
